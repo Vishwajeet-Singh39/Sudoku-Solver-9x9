@@ -79,7 +79,7 @@ int main(){
     display(a);
   }
   else{
-    cout <<"Not Solvable"<<endl;
+    cout<<endl<<"Not Solvable"<<endl;
   }
   return 0;
 }
